@@ -1,0 +1,4 @@
+(entrar em uma pasta) cd 
+(listar) ls
+(ver status) git status
+(para adicionar novos arquivos) git -a / ou git add
