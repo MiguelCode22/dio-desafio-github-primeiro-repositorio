@@ -2,3 +2,5 @@
 (listar) ls
 (ver status) git status
 (para adicionar novos arquivos) git -a / ou git add
+(upar pra nuvem) git commit -m "Inclusão das anotações do curso de Git/GitHub"
+(enviar) git push origin main
